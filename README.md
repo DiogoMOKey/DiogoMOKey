@@ -16,7 +16,7 @@ I'm a passionate developer with a strong interest in **Programming**, **Cloud** 
 - **Microsoft Applications:** Power BI, Power Automate
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/diogo-oliveira-chaves/)) *([Insert your LinkedIn profile link here](https://www.linkedin.com/in/diogo-oliveira-chaves/))*
-- 🌍 [Portfolio](#) *(Insert your website/portfolio if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/diogo-oliveira-chaves/)
+- 🌍 [Portfolio](https://www.linkedin.com/in/diogo-oliveira-chaves/) *(Working on it)*
 
 💻 Always eager to collaborate on exciting projects! Feel free to connect. 🚀
